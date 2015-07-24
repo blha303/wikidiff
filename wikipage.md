@@ -44,11 +44,11 @@ Dungeon Magic | [iast](http://twitch.tv/iastsa) | [~~*0:20:00*~~](http://www.twi
 Super Monkey Ball Deluxe | [Geoff](http://twitch.tv/Geoff) | [~~*0:45:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 BONUS! Octodad Dadliest Catch co-op run | [misskaddykins](http://twitch.tv/misskaddykins), [Geoff](http://twitch.tv/Geoff) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Spica Adventure | [EggmaniMN](http://twitch.tv/EggmaniMN) | [~~*0:08:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Tetris: The Grand Master 2+, TA Death Mode | people | [~~*0:15:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Tetris: The Grand Master 3, Master mode | people | [~~*0:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Tetris: The Grand Master 3, Shirase mode | people | [~~*0:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Tetris: The Grand Master 3, Sakura mode | people | [~~*0:08:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Tetris: The Grand Master series, Exhibition modes | people | [~~*0:30:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Tetris: The Grand Master 2+, TA Death Mode | [TGM crew](http://twitch.tv/) | [~~*0:15:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Tetris: The Grand Master 3, Master mode | [TGM crew](http://twitch.tv/) | [~~*0:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Tetris: The Grand Master 3, Shirase mode | [TGM crew](http://twitch.tv/) | [~~*0:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Tetris: The Grand Master 3, Sakura mode | [TGM crew](http://twitch.tv/) | [~~*0:08:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Tetris: The Grand Master series, Exhibition modes | [TGM crew](http://twitch.tv/) | [~~*0:30:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 The Legend of Zelda: Twilight Princess | [Chaotic_Ace](http://twitch.tv/Chaotic_Ace) | [~~*3:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Bioshock Infinite | [FearfulFerret](http://twitch.tv/FearfulFerret) | [~~*2:15:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Borderlands: The Pre-Sequel | [TheFuncannon](http://twitch.tv/TheFuncannon) | [~~*2:40:00*~~](http://www.twitch.tv/gamesdonequick) **x**
@@ -123,7 +123,7 @@ Mega Man: The Wily Wars | [TheSiege](http://twitch.tv/cjjensen) | [~~*0:20:00*~~
 Mega Man 4 | [almondcity](http://twitch.tv/almondcity), [Chelney](http://twitch.tv/chelney1) | [~~*0:45:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Mega Man 10 | [usedpizza](http://twitch.tv/usedpizza) | [~~*0:42:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Mega Man & Bass (a.k.a. Rockman & Forte) | [cleartonic](http://twitch.tv/cleartonic) | [~~*0:42:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Halo 3 | people | [~~*1:52:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Halo 3 | [TheBlazeJp](http://twitch.tv/) | [~~*1:52:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Legend of Zelda: Ocarina of Time | [Jodenstone](http://twitch.tv/Jodenstone) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Wave Race 64 | [Shibbypod](http://twitch.tv/Shibbypod) | [~~*0:15:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Mario Kart 64 | [abney317](http://twitch.tv/abney317) | [~~*0:45:00*~~](http://www.twitch.tv/gamesdonequick) **x**
@@ -147,7 +147,7 @@ Kid Icarus | [Darkwing Duck](http://twitch.tv/darkwing_duck_sda) | [~~*0:35:00*~
 Super Mario Bros: The Lost Levels | [GameJ06](http://twitch.tv/GameJ06) | [~~*0:50:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Super Mario Bros. 3 | [cujoihsv](http://twitch.tv/cujoihsv), [whenchukattacks](http://twitch.tv/whenchukattacks) | [~~*1:20:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Super Mario Sunshine | [Kaffelon](http://twitch.tv/Kaffelon), [Bounceyboy](http://twitch.tv/Bounceyboy) | [~~*1:50:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-BONUS! Luigi's Mansion race | people | [~~*1:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+BONUS! Luigi's Mansion race | [Firedragon764](http://twitch.tv/), [Boohead86](http://twitch.tv/) | [~~*1:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Pokemon Blue | [Shenanagans](http://twitch.tv/Shenangans_) | [~~*2:20:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 INCENTIVE! Pokemon Blue blindfolded run | [Shenanagans](http://twitch.tv/Shenangans_) | [~~*0:40:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 BONUS! Pokemon Puzzle League | [CardsOfTheHeart](http://twitch.tv/CardsOfTheHeart) | [~~*1:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
@@ -165,4 +165,4 @@ INCENTIVE! Super Mario 64 any% race | [GamerDomey](http://twitch.tv/GamerDomey),
 Super Mario 64 | [puncayshun](http://twitch.tv/puncayshun), [cheese05](http://twitch.tv/cheese05), [Simply](http://twitch.tv/Simply) | [~~*1:55:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Super Metroid | [David Clemens](http://twitch.tv/DavidClemensn), [Zoast](http://twitch.tv/zoasty), [Oatsngoats](http://twitch.tv/Oatsngoats) | [~~*0:50:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Chrono Trigger | [Essentia](http://twitch.tv/EssentiaFour), [puwexil](http://twitch.tv/puwexil) | [~~*5:30:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Finale! | people | [~~*0:05:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Finale! | [everyone](http://twitch.tv/) | [~~*0:05:00*~~](http://www.twitch.tv/gamesdonequick) **x**
