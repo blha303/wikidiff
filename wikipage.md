@@ -41,10 +41,10 @@ Maldita Castilla | [Mr_Weables](http://twitch.tv/Mr_Weables), [pcull44444](http:
 Gauntlet (NES) | [Feasel](http://twitch.tv/Feasel) | [~~*0:20:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Gauntlet (PC) | [PJ](http://twitch.tv/pjdicesare), [Murphagator](http://twitch.tv/Murphagator) | [~~*1:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Toejam and Earl | [peaches](http://twitch.tv/peaches) | [~~*0:30:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Streets of Rage 2 | [Hi_Im_Nastyy](http://twitch.tv/Hi_Im_Nastyy) | [~~*0:36:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Dungeon Magic | [iast](http://twitch.tv/iastsa) | [~~*0:20:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Super Monkey Ball Deluxe | [Geoff](http://twitch.tv/Geoff) | [~~*0:45:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 BONUS! Octodad Dadliest Catch co-op run | [misskaddykins](http://twitch.tv/misskaddykins), [Geoff](http://twitch.tv/Geoff) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Ninja Baseball Batman | [Murphagator](http://twitch.tv/Murphagator) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Spica Adventure | [EggmaniMN](http://twitch.tv/EggmaniMN) | [~~*0:08:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Tetris: The Grand Master 2+, TA Death Mode | [TGM crew](http://twitch.tv/) | [~~*0:15:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Tetris: The Grand Master 3, Master mode | [TGM crew](http://twitch.tv/) | [~~*0:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
@@ -88,7 +88,7 @@ Kirby Super Star | [usedpizza](http://twitch.tv/usedpizza) | [~~*1:20:00*~~](htt
 Kirby's Avalanche vs. Dr. Robotnik's Mean Bean Machine | [CosmykTheDolfyn](http://twitch.tv/CosmykTheDolfyn) | [~~*0:20:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Earthworm Jim | [Athens_](http://twitch.tv/Athens_) | [~~*0:35:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Ecco: The Tides of Time | [Dolfinh](http://twitch.tv/Dolfinht) | [~~*0:45:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Gunstar Heroes | [iongravirei](http://twitch.tv/iongravirei), [White Diamond](http://twitch.tv/whtdiamond) | [~~*0:50:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Gunstar Heroes | [iongravirei](http://twitch.tv/iongravirei), [TonyOgbot](http://twitch.tv/TonyOgbot) | [~~*0:50:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Freedom Planet | [johannhowitzer](http://twitch.tv/johannhowitzer), [Mylexsi](http://twitch.tv/Mylexsi) | [~~*1:05:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Sonic the Hedgehog: Triple Trouble | [bertin](http://twitch.tv/sylux98) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Sonic Advance | [kirbymastah](http://twitch.tv/kirbymastah), [Combo_Blaze](http://twitch.tv/Combo_Blaze) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick) **x**
