@@ -1,7 +1,12 @@
 Schedule may change without notice. Please check [gamesdonequick.com/schedule](https://gamesdonequick.com/schedule) for the most up-to-date reference.
 
+### Break
+I'm taking a sleep break, SGDQ started at 1am my time and I'm pretty drowsy. I'll be back to update the thread in a couple hours. You can find GDQ broadcasts [here](http://www.twitch.tv/gamesdonequick/profile/past_broadcasts), and GDQ's youtube channel is [here](http://youtube.com/user/gamesdonequick). Have fun!
+
 ### Links
 * Stream: [gamesdonequick.com](https://gamesdonequick.com), [twitch.tv/gamesdonequick](http://twitch.tv/gamesdonequick)
+* GDQ broadcasts: http://www.twitch.tv/gamesdonequick/profile/past_broadcasts
+* Youtube channel: http://youtube.com/user/gamesdonequick
 * Donations: https://gamesdonequick.com/tracker/16
 * Awesome moments: [Reddit comment](https://www.reddit.com/r/speedrun/comments/3emv6z/sgdq_vod_thread_2015/ctgx0xw)
 
