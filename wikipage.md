@@ -158,7 +158,7 @@ Shadow of the Colossus | [Meows](http://twitch.tv/meowtain_dew) | [~~*1:00:00*~~
 Batman: Arkham Origins | [Charlitian](http://twitch.tv/Charlitian) | [~~*0:55:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 BONUS! Minecraft | [FearfulFerret](http://twitch.tv/FearfulFerret) | [~~*1:10:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Portal | [NoirCat](http://twitch.tv/NoirCat) | [~~*0:20:00*~~](http://www.twitch.tv/gamesdonequick) **x**
-Dark Souls II | [Oginam](http://twitch.tv/FearfulFerret), [FearfulFerret](http://twitch.tv/Oginam) | [~~*1:30:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Dark Souls II | [FearfulFerret](http://twitch.tv/FearfulFerret), [Oginam](http://twitch.tv/Oginam) | [~~*1:30:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 TASBot plays Mega Man | [any% by Shinryuu](http://twitch.tv/dwangoAC) | [~~*0:12:23*~~](http://www.twitch.tv/gamesdonequick) **x**
 TASBot plays Sonic Advance | [any% by Mukki](http://twitch.tv/dwangoAC) | [~~*0:10:46*~~](http://www.twitch.tv/gamesdonequick) **x**
 TASBot plays Ikaruga | [Maximum score by keylie](http://twitch.tv/dwangoAC) | [~~*0:21:29*~~](http://www.twitch.tv/gamesdonequick) **x**
