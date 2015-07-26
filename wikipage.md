@@ -1,4 +1,4 @@
-## Countdown: https://countingdownto.com/countdown/sgdq-2015-countdown-clock
+### Countdown: https://countingdownto.com/countdown/sgdq-2015-countdown-clock
 
 Schedule may change without notice. Please check [gamesdonequick.com/schedule](https://gamesdonequick.com/schedule) for the most up-to-date reference.
 
