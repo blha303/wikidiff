@@ -10,7 +10,7 @@ Legend:
 
 Game | Runner / Channel | Time / Link
 --|--|--|
-Super Mario World 2: Yoshi's Island | [Trihex](http://twitch.tv/Trihex) | [~~*2:55:00*~~](http://www.twitch.tv/gamesdonequick) **x**
+Super Mario World 2: Yoshi's Island | [Trihex](http://twitch.tv/Trihex) | [*2:55:00*](http://www.twitch.tv/gamesdonequick/v/8628938?t=19m16s)
 Sonic Boom: Rise of Lyric | [mieDax](http://twitch.tv/mie_dax) | [~~*0:50:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Shadow the Hedgehog | [SilverSonic](http://twitch.tv/SilverSonic) | [~~*0:23:00*~~](http://www.twitch.tv/gamesdonequick) **x**
 Sonic Adventure DX: Director's Cut | [gamepro11](http://twitch.tv/gamepro011) | [~~*0:35:00*~~](http://www.twitch.tv/gamesdonequick) **x**
