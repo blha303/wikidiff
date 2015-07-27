@@ -1,6 +1,10 @@
 Schedule may change without notice. Please check [gamesdonequick.com/schedule](https://gamesdonequick.com/schedule) for the most up-to-date reference.
 
-To make the VOD thread easier to update, it's automatically pulling updates from [this wiki page](https://www.reddit.com/r/suudo/wiki/sgdq2015), because comments have an annoying character limit. The source for this awesome script I wrote can be found here: [github.com/blha303/reddit-wikitothread](https://github.com/blha303/reddit-wikitothread)
+## [Donate here!](https://gamesdonequick.com/tracker/16)
+
+### Links
+* [GDQ homepage](https://gamesdonequick.com)
+* [GDQ Youtube](https://www.youtube.com/user/gamesdonequick)
 
 Legend:
 
