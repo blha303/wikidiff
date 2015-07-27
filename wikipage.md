@@ -24,7 +24,7 @@ INCENTIVE! DKC3 Lost World | [RaikouRider](http://twitch.tv/raikourider) | [0:17
 Crash Bandicoot 2: Cortex Strikes Back | [gamepro11](http://twitch.tv/gamepro011) | [0:43:25](http://www.twitch.tv/gamesdonequick/v/8647104?t=5h29m55s)
 Crash Bandicoot: Warped | [Wheelio](http://twitch.tv/e_wheelio), [Kollin7](http://twitch.tv/kollin7) | [0:50:10](http://www.twitch.tv/gamesdonequick/v/8647104?t=6h34m20s)
 Resident Evil 3 | [Carcinogen](http://twitch.tv/carcinogensda) | [0:57:34](http://www.twitch.tv/gamesdonequick/v/8647104?t=7h52m10s)
-Resident Evil 4 | [JTB](http://twitch.tv/jtb__) | [*1:45:00*](http://www.twitch.tv/gamesdonequick)
+Resident Evil 4 | [JTB](http://twitch.tv/jtb__) | [*1:45:00*](http://www.twitch.tv/gamesdonequick/v/8647104?t=9h5m0s)
 Silent Hill 2 | [SanGillespie](http://twitch.tv/SanGillespie) | [~~*1:10:00*~~](http://www.twitch.tv/gamesdonequick)
 Stranglehold | [Bonesaw577](http://twitch.tv/Bonesaw577) | [~~*1:35:00*~~](http://www.twitch.tv/gamesdonequick)
 Shenmue II | [Puri_Puri](http://twitch.tv/Puri_Puri) | [~~*2:15:00*~~](http://www.twitch.tv/gamesdonequick)
