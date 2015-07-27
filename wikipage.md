@@ -8,22 +8,22 @@ Legend:
 ~~*crossed-out italic text*~~ = VOD link goes to GDQ stream, not timestamped archive (run hasn't happened yet)    
 **:(** = Muted by Twitch (with link to alternative on youtube where available)    
 **YT** = Link to GDQ youtube channel official upload    
-***** = In process of being updated, please refresh in a couple minutes
+* = In process of being updated, please refresh in a couple minutes
 
 Game | Runner / Channel | Time / Link
 --|--|--|
 Super Mario World 2: Yoshi's Island | [Trihex](http://twitch.tv/Trihex) | [2:42:44](http://www.twitch.tv/gamesdonequick/v/8628938?t=19m16s) [**YT**](https://www.youtube.com/watch?v=JhTnrMyH51c)
-Sonic Boom: Rise of Lyric | [mieDax](http://twitch.tv/mie_dax) | [0:36:57](http://www.twitch.tv/gamesdonequick) ***** [**YT**](https://www.youtube.com/watch?v=y_6XEvby3tU)
-Shadow the Hedgehog | [SilverSonic](http://twitch.tv/SilverSonic) | [0:19:48](http://www.twitch.tv/gamesdonequick) ***** [**YT**](https://www.youtube.com/watch?v=0koI1s5a_-s)
-Sonic Adventure DX: Director's Cut | [gamepro11](http://twitch.tv/gamepro011) | [0:32:27](http://www.twitch.tv/gamesdonequick) *****
-INCENTIVE: Big the Cat's Story | [JerKro](http://twitch.tv/JerKro) | [0:07:05](http://www.twitch.tv/gamesdonequick) *****
-Donkey Kong Country | [Garrison](http://twitch.tv/gari), [Eazinn](http://twitch.tv/eazinn), [NewAgeRetroHippie](http://twitch.tv/newageretrohippie) | [0:34:55](http://www.twitch.tv/gamesdonequick) *****
-INCENTIVE! DKC glitched any% | [Eazinn](http://twitch.tv/eazinn) | [0:09:54](http://www.twitch.tv/gamesdonequick) *****
-Donkey Kong Country 3 | [Supreme](http://twitch.tv/supreme) | [0:53:22](http://www.twitch.tv/gamesdonequick) *****
-INCENTIVE! DKC3 Lost World | [RaikouRider](http://twitch.tv/raikourider) | [0:17:18](http://www.twitch.tv/gamesdonequick) *****
-Crash Bandicoot 2: Cortex Strikes Back | [gamepro11](http://twitch.tv/gamepro011) | [0:43:25](http://www.twitch.tv/gamesdonequick) *****
-Crash Bandicoot: Warped | [Wheelio](http://twitch.tv/e_wheelio), [Kollin7](http://twitch.tv/kollin7) | [0:50:10](http://www.twitch.tv/gamesdonequick) *****
-Resident Evil 3 | [Carcinogen](http://twitch.tv/carcinogensda) | [0:57:34](http://www.twitch.tv/gamesdonequick) *****
+Sonic Boom: Rise of Lyric | [mieDax](http://twitch.tv/mie_dax) | [0:36:57](http://www.twitch.tv/gamesdonequick) * [**YT**](https://www.youtube.com/watch?v=y_6XEvby3tU)
+Shadow the Hedgehog | [SilverSonic](http://twitch.tv/SilverSonic) | [0:19:48](http://www.twitch.tv/gamesdonequick) * [**YT**](https://www.youtube.com/watch?v=0koI1s5a_-s)
+Sonic Adventure DX: Director's Cut | [gamepro11](http://twitch.tv/gamepro011) | [0:32:27](http://www.twitch.tv/gamesdonequick) *
+INCENTIVE: Big the Cat's Story | [JerKro](http://twitch.tv/JerKro) | [0:07:05](http://www.twitch.tv/gamesdonequick) *
+Donkey Kong Country | [Garrison](http://twitch.tv/gari), [Eazinn](http://twitch.tv/eazinn), [NewAgeRetroHippie](http://twitch.tv/newageretrohippie) | [0:34:55](http://www.twitch.tv/gamesdonequick) *
+INCENTIVE! DKC glitched any% | [Eazinn](http://twitch.tv/eazinn) | [0:09:54](http://www.twitch.tv/gamesdonequick) *
+Donkey Kong Country 3 | [Supreme](http://twitch.tv/supreme) | [0:53:22](http://www.twitch.tv/gamesdonequick) *
+INCENTIVE! DKC3 Lost World | [RaikouRider](http://twitch.tv/raikourider) | [0:17:18](http://www.twitch.tv/gamesdonequick) *
+Crash Bandicoot 2: Cortex Strikes Back | [gamepro11](http://twitch.tv/gamepro011) | [0:43:25](http://www.twitch.tv/gamesdonequick) *
+Crash Bandicoot: Warped | [Wheelio](http://twitch.tv/e_wheelio), [Kollin7](http://twitch.tv/kollin7) | [0:50:10](http://www.twitch.tv/gamesdonequick) *
+Resident Evil 3 | [Carcinogen](http://twitch.tv/carcinogensda) | [0:57:34](http://www.twitch.tv/gamesdonequick) *
 Resident Evil 4 | [JTB](http://twitch.tv/jtb__) | [*1:45:00*](http://www.twitch.tv/gamesdonequick)
 Silent Hill 2 | [SanGillespie](http://twitch.tv/SanGillespie) | [~~*1:10:00*~~](http://www.twitch.tv/gamesdonequick)
 Stranglehold | [Bonesaw577](http://twitch.tv/Bonesaw577) | [~~*1:35:00*~~](http://www.twitch.tv/gamesdonequick)
