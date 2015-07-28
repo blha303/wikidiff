@@ -23,7 +23,7 @@ Sonic Boom: Rise of Lyric | [mieDax](http://twitch.tv/mie_dax) | [0:36:57](http:
 Shadow the Hedgehog | [SilverSonic](http://twitch.tv/SilverSonic) | [0:19:48](http://www.twitch.tv/gamesdonequick/v/8647104?t=55m10s)
 Sonic Adventure DX: Director's Cut | [gamepro11](http://twitch.tv/gamepro011) | [0:32:27](http://www.twitch.tv/gamesdonequick/v/8647104?t=1h41m30s)
 INCENTIVE: Big the Cat's Story | [JerKro](http://twitch.tv/JerKro) | [0:07:05](http://www.twitch.tv/gamesdonequick/v/8647104?t=2h20m15s)
-Donkey Kong Country | [Garrison](http://twitch.tv/gari), [Eazinn](http://twitch.tv/eazinn), [NewAgeRetroHippie](http://twitch.tv/newageretrohippie) | [0:34:55](http://www.twitch.tv/gamesdonequick/v/8647104?t=2h48m25s) [**YT**](https://www.youtube.com/watch?v=teO-97J246k&t=18m10s)
+Donkey Kong Country | [Garrison](http://twitch.tv/gari), [Eazinn](http://twitch.tv/eazinn), [NewAgeRetroHippie](http://twitch.tv/newageretrohippie) | [0:34:55](http://www.twitch.tv/gamesdonequick/v/8647104?t=2h48m25s)
 INCENTIVE! DKC glitched any% | [Eazinn](http://twitch.tv/eazinn) | [0:09:54](http://www.twitch.tv/gamesdonequick/v/8647104?t=3h29m35s)
 Donkey Kong Country 3 | [Supreme](http://twitch.tv/supreme) | [0:53:22](http://www.twitch.tv/gamesdonequick/v/8647104?t=3h57m30s)
 INCENTIVE! DKC3 Lost World | [RaikouRider](http://twitch.tv/raikourider) | [0:17:18](http://www.twitch.tv/gamesdonequick/v/8647104?t=4h57m50s)
