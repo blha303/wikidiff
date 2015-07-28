@@ -55,7 +55,7 @@ BONUS! Octodad Dadliest Catch co-op run | [misskaddykins](http://twitch.tv/missk
 Ninja Baseball Batman | [Murphagator](http://twitch.tv/Murphagator) | [0:24:00](http://www.twitch.tv/gamesdonequick/v/8647104?t=27h05m45s)
 Spica Adventure | [EggmaniMN](http://twitch.tv/EggmaniMN) | [0:06:21](http://www.twitch.tv/gamesdonequick/v/8647104?t=27h40m55s)
 Tetris: The Grand Master block | [TGM crew](http://twitch.tv/) | [-:--:--](http://www.twitch.tv/gamesdonequick/v/8647104?t=28h21m30s)
-The Legend of Zelda: Twilight Princess | [Chaotic_Ace](http://twitch.tv/Chaotic_Ace) | [*3:25:00*](http://www.twitch.tv/gamesdonequick/v/8647104?t=30h14m20s)
+The Legend of Zelda: Twilight Princess | [Chaotic_Ace](http://twitch.tv/Chaotic_Ace) | [3:17:55](http://www.twitch.tv/gamesdonequick/v/8647104?t=30h14m20s)
 Bioshock Infinite | [FearfulFerret](http://twitch.tv/FearfulFerret) | [~~*2:15:00*~~](http://www.twitch.tv/gamesdonequick)
 Borderlands: The Pre-Sequel | [TheFuncannon](http://twitch.tv/TheFuncannon) | [~~*2:40:00*~~](http://www.twitch.tv/gamesdonequick)
 Lovely Planet | [Sigmasin](http://twitch.tv/Sigmasin) | [~~*0:28:00*~~](http://www.twitch.tv/gamesdonequick)
