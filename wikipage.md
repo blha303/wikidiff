@@ -14,6 +14,8 @@ Legend:
 **YT** = Link to GDQ youtube channel official upload    
 * = In process of being updated, please refresh in a couple minutes
 
+This page is automatically generated from this [wiki page](https://www.reddit.com/r/suudo/wiki/sgdq2015).
+
 Game | Runner / Channel | Time / Link
 --|--|--|
 Super Mario World 2: Yoshi's Island | [Trihex](http://twitch.tv/Trihex) | [2:42:44](http://www.twitch.tv/gamesdonequick/v/8628938?t=19m16s) [**YT**](https://www.youtube.com/watch?v=JhTnrMyH51c)
