@@ -92,7 +92,7 @@ Kirby Super Star | [usedpizza](http://twitch.tv/usedpizza) | [1:15:20](http://ww
 Dr. Robotnik's Mean Bean Machine | [CosmykTheDolfyn](http://twitch.tv/CosmykTheDolfyn) | [0:14:33](http://www.twitch.tv/gamesdonequick/v/8647104?t=68h05m15s)
 Earthworm Jim | [Athens_](http://twitch.tv/Athens_) | [0:32:55](http://www.twitch.tv/gamesdonequick/v/8647104?t=68h27m50s)
 Ecco: The Tides of Time | [Dolfinh](http://twitch.tv/Dolfinht) | [0:41:00](http://www.twitch.tv/gamesdonequick/v/8647104?t=69h08m35s)
-Gunstar Heroes | [iongravirei](http://twitch.tv/iongravirei), [TonyOgbot](http://twitch.tv/TonyOgbot) | [*0:50:00*](http://www.twitch.tv/gamesdonequick)
+Gunstar Heroes | [iongravirei](http://twitch.tv/iongravirei), [TonyOgbot](http://twitch.tv/TonyOgbot) | [*0:50:00*](http://www.twitch.tv/gamesdonequick/v/8647104?t=70h00m20s)
 Freedom Planet | [johannhowitzer](http://twitch.tv/johannhowitzer), [Mylexsi](http://twitch.tv/Mylexsi) | [~~*1:05:00*~~](http://www.twitch.tv/gamesdonequick)
 Sonic the Hedgehog: Triple Trouble | [bertin](http://twitch.tv/sylux98) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick)
 Sonic Advance | [kirbymastah](http://twitch.tv/kirbymastah), [Combo_Blaze](http://twitch.tv/Combo_Blaze) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick)
