@@ -89,7 +89,7 @@ Gargoyle's Quest | [unusualcook](http://twitch.tv/unusualcook) | [0:33:09](http:
 Kirby's Dream Land 2 | [BBQSauz](http://twitch.tv/BBQSauz) | [0:40:18](http://www.twitch.tv/gamesdonequick/v/8647104?t=65h30m05s)
 Kirby: Tilt N Tumble | [danray2352](http://twitch.tv/danray2352) | [0:15:16](http://www.twitch.tv/gamesdonequick/v/8647104?t=66h19m40s)
 Kirby Super Star | [usedpizza](http://twitch.tv/usedpizza) | [1:15:20](http://www.twitch.tv/gamesdonequick/v/8647104?t=66h43m55s)
-Kirby's Avalanche vs. Dr. Robotnik's Mean Bean Machine | [CosmykTheDolfyn](http://twitch.tv/CosmykTheDolfyn) | [?:??:??](http://www.twitch.tv/gamesdonequick/v/8647104?t=68h05m15s)
+Dr. Robotnik's Mean Bean Machine | [CosmykTheDolfyn](http://twitch.tv/CosmykTheDolfyn) | [?:??:??](http://www.twitch.tv/gamesdonequick/v/8647104?t=68h05m15s)
 Earthworm Jim | [Athens_](http://twitch.tv/Athens_) | [?:??:??](http://www.twitch.tv/gamesdonequick/v/8647104?t=68h27m50s)
 Ecco: The Tides of Time | [Dolfinh](http://twitch.tv/Dolfinht) | [0:41:00](http://www.twitch.tv/gamesdonequick/v/8647104?t=69h08m35s)
 Gunstar Heroes | [iongravirei](http://twitch.tv/iongravirei), [TonyOgbot](http://twitch.tv/TonyOgbot) | [*0:50:00*](http://www.twitch.tv/gamesdonequick)
