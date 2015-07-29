@@ -84,7 +84,7 @@ Mighty Switch Force! 2 | [TonyOgbot](http://twitch.tv/TonyOgbot) | [0:23:29](htt
 Hotline Miami 2: Wrong Number | [Duke_Bilgewater](http://twitch.tv/duke_bilgewater) | [0:46:51](http://www.twitch.tv/gamesdonequick/v/8647104?t=60h28m30s)
 Bastion | [Vulajin](http://twitch.tv/Vulajin) | [0:50:28](http://www.twitch.tv/gamesdonequick/v/8647104?t=61h26m00s)
 Half-Minute Hero | [Essentia](http://twitch.tv/EssentiaFour) | [0:28:45](http://www.twitch.tv/gamesdonequick/v/8647104?t=62h28m22s)
-Kingdom Hearts Birth by Sleep FM HD | [AdamTimothy0](http://twitch.tv/AdamTimothy0) | [~~*1:20:00*~~](http://www.twitch.tv/gamesdonequick)
+Kingdom Hearts Birth by Sleep FM HD | [AdamTimothy0](http://twitch.tv/AdamTimothy0) | [1:12:41](http://http://www.twitch.tv/gamesdonequick/v/8647104?t=63h29m35s)
 Gargoyle's Quest | [unusualcook](http://twitch.tv/unusualcook) | [~~*0:40:00*~~](http://www.twitch.tv/gamesdonequick)
 Kirby's Dream Land 2 | [BBQSauz](http://twitch.tv/BBQSauz) | [~~*0:50:00*~~](http://www.twitch.tv/gamesdonequick)
 Kirby: Tilt N Tumble | [danray2352](http://twitch.tv/danray2352) | [~~*0:18:00*~~](http://www.twitch.tv/gamesdonequick)
