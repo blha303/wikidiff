@@ -107,7 +107,7 @@ Samurai Pizza Cats | [Trogdor](http://twitch.tv/Trogdor), [usedpizza](http://twi
 Panic Restaurant | [EggmaniMN](http://twitch.tv/EggmaniMN) | [0:14:23](http://www.twitch.tv/gamesdonequick/v/8983502?t=11h30m20s)
 Kid Niki 2 | [infinitemystery](http://twitch.tv/infinitemystery) | [0:10:50](http://www.twitch.tv/gamesdonequick/v/8983502?t=11h48m30s)
 Chester Cheetah: Wild Wild Quest | [SecksWrecks](http://twitch.tv/SecksWrecks) | [0:11:15](http://www.twitch.tv/gamesdonequick/v/8983502?t=12h06m45s)
-Space Station Silicon Valley | [mcill](http://twitch.tv/mcill) | [~~*1:25:00*~~](http://www.twitch.tv/gamesdonequick)
+Space Station Silicon Valley | [mcill](http://twitch.tv/mcill) | [1:23:10](http://www.twitch.tv/gamesdonequick/v/8983502?t=12h25m30s)
 Stretch Panic | [iongravirei](http://twitch.tv/iongravirei), [CavemanDCJ](http://twitch.tv/CavemanDCJ) | [~~*0:35:00*~~](http://www.twitch.tv/gamesdonequick)
 Roundabout | [Studio](http://twitch.tv/sovietwaffle) | [~~*0:55:00*~~](http://www.twitch.tv/gamesdonequick)
 BONUS! Oregon Trail | [Skybilz](http://twitch.tv/Skybilz) | [~~*0:15:00*~~](http://www.twitch.tv/gamesdonequick)
