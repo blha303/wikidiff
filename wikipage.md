@@ -104,7 +104,7 @@ Sonic Advance |  | [kirbymastah](http://twitch.tv/kirbymastah), [Combo_Blaze](ht
 Sonic the Hedgehog 2 |  | [TheJMatt](http://twitch.tv/TheJMatt), [Aleck47](http://twitch.tv/Aleck47) | [0:25:46](http://www.twitch.tv/gamesdonequick/v/8983502?t=1h06m15s)
 Legend of Zelda: Majora's Mask 3D |  | [NOUFozzy](http://twitch.tv/NOUFozzy) | [2:17:30](http://www.twitch.tv/gamesdonequick/v/8983502?t=1h48m50s)
 BONUS! The Legend of Zelda |  | [jkoper](http://twitch.tv/jkoper) | [0:59:15](http://www.twitch.tv/gamesdonequick/v/8983502?t=4h25m45s)
-Earthbound |  | [Aurilliux](http://twitch.tv/Aurilliux) |  | [1:27:07](http://www.twitch.tv/gamesdonequick/v/8983502?t=5h53m50s)
+Earthbound |  | [Aurilliux](http://twitch.tv/Aurilliux) | [1:27:07](http://www.twitch.tv/gamesdonequick/v/8983502?t=5h53m50s)
 Prince of Persia: Sands of Time |  | [Henneko_](http://twitch.tv/Henneko_) | [1:36:23](http://www.twitch.tv/gamesdonequick/v/8983502?t=7h39m35s)
 Deus Ex: Human Revolution |  | [Heinki](http://twitch.tv/Heinki) | [0:49:27](http://www.twitch.tv/gamesdonequick/v/8983502?t=9h23m00s)
 Hello Kitty: Roller Rescue |  | [GamerDomey](http://twitch.tv/GamerDomey) | [0:33:27](http://www.twitch.tv/gamesdonequick/v/8983502?t=10h25m00s)
