@@ -6,6 +6,11 @@ Schedule may change without notice. Please check [gamesdonequick.com/schedule](h
 * [GDQ homepage](https://gamesdonequick.com)
 * [GDQ Youtube](https://www.youtube.com/user/gamesdonequick)
 
+### With thanks to
+* /u/PingofDing for updating the thread a lot while I've been away
+* /u/darkid
+* /u/glench
+
 Legend:
 
 *italic time* = run is not yet complete (LIVE NOW), time is estimate    
