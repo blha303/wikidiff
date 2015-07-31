@@ -132,7 +132,7 @@ Mega Man &amp; Bass (a.k.a. Rockman &amp; Forte) | [cleartonic](http://twitch.tv
 Halo 3 | [TheBlazeJp](http://twitch.tv/) | [~~*1:52:00*~~](http://www.twitch.tv/gamesdonequick)
 Legend of Zelda: Ocarina of Time | [Jodenstone](http://twitch.tv/Jodenstone) | [~~*0:25:00*~~](http://www.twitch.tv/gamesdonequick)
 Wave Race 64 | [Shibbypod](http://twitch.tv/Shibbypod) | [~~*0:15:00*~~](http://www.twitch.tv/gamesdonequick)
-Mario Kart 64 | [abney317](http://twitch.tv/abney317) | [*0:30:36*](http://www.twitch.tv/gamesdonequick/v/9136645?t=2h41m37s)
+Mario Kart 64 | [abney317](http://twitch.tv/abney317) | [0:30:36](http://www.twitch.tv/gamesdonequick/v/9136645?t=2h41m37s)
 Doom 64 | [Grav](http://twitch.tv/Grav) | [~~*0:40:00*~~](http://www.twitch.tv/gamesdonequick)
 Banjo-Tooie | [kaptainkohl](http://twitch.tv/kaptainkohl) | [~~*1:00:00*~~](http://www.twitch.tv/gamesdonequick)
 Donkey Kong 64 | [2dos](http://twitch.tv/2dos) | [~~*2:35:00*~~](http://www.twitch.tv/gamesdonequick)
