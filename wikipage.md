@@ -134,7 +134,7 @@ Legend of Zelda: Ocarina of Time | [Jodenstone](http://twitch.tv/Jodenstone) | [
 Mario Kart 64 | [abney317](http://twitch.tv/abney317) | [0:30:36](http://www.twitch.tv/gamesdonequick/v/9136645?t=2h41m37s)
 Doom 64 | [Grav](http://twitch.tv/Grav) | [0:36:45](http://www.twitch.tv/gamesdonequick/v/9136645?t=3h26m20s)
 Banjo-Tooie | [kaptainkohl](http://twitch.tv/kaptainkohl) | [0:47:24](http://www.twitch.tv/gamesdonequick/v/9136645?t=4h11m20s)
-Donkey Kong 64 | [2dos](http://twitch.tv/2dos) | [~~*2:35:00*~~](http://www.twitch.tv/gamesdonequick)
+Donkey Kong 64 | [2dos](http://twitch.tv/2dos) | [*2:35:00*](http://www.twitch.tv/gamesdonequick/v/9136645?t=5h10m40s)
 Mario &amp;amp; Luigi: Superstar Saga | [altabiscuit](http://twitch.tv/altabiscuit) | [~~*1:40:00*~~](http://www.twitch.tv/gamesdonequick)
 Saints Row: Gat out of Hell | [BystanderTim](http://twitch.tv/bystandertimgames) | [~~*1:10:00*~~](http://www.twitch.tv/gamesdonequick)
 Super Turrican | [ShinerCCC](http://twitch.tv/ShinerCCC) | [~~*0:20:00*~~](http://www.twitch.tv/gamesdonequick)
